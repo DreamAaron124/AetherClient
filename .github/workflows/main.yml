@@ -1,0 +1,6 @@
+.github
+gradle
+src
+build.gradle
+gradle.properties
+settings.gradle
